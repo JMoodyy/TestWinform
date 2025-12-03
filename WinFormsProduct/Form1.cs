@@ -16,6 +16,7 @@ namespace WinFormsProduct
         public Form1()
         {
             InitializeComponent();
+            int i = 0;
         }
     }
 }
